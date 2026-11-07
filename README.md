@@ -62,15 +62,15 @@ The main analysis areas include:
 
 **Dashboard Overview**
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 **Customer Analysis**
 
-![Customer Analysis](screenshots/customer-analysis.png)
+![Customer Analysis](customer-analysis.png)
 
 **Churn Analysis**
 
-![Churn Analysis](screenshots/churn-analysis.png)
+![Churn Analysis](churn-analysis.png)
 
 ## Key Findings
 
